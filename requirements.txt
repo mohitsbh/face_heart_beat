@@ -1,8 +1,9 @@
 streamlit
-opencv-python-headless==4.10.0.75
+opencv-python
 numpy==1.26.4
 matplotlib
 scipy
 pillow
 pandas
 fpdf
+
