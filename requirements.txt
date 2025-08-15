@@ -5,4 +5,5 @@ matplotlib
 scipy
 pillow
 pandas
-fpdf
+fpdf 
+opencv-contrib-python
